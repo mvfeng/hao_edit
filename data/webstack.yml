@@ -36,10 +36,6 @@
       logo: ailake.svg
       url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
       description: 白嫖AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
-    - title: 思默问答[ai大全]
-      logo: simo.png
-      url: https://link.94c.cn/?link=https://www.sitesmo.com
-      description: 免费思默问答[ai大全]
     - title: chatgpt文献分析
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://www.knowledgetoproduct.com
@@ -76,6 +72,15 @@
       logo: office.png
       url: https://link.94c.cn/?link=http://tool.94c.cn
       description: 免费激活office全家桶
+    - title: 小纸条
+      logo: xiaozhitiao.png
+      url: https://link.94c.cn/?link=https://ali.gitcafe.ink/
+      description: 小纸条是一个网友资源互助分享网页，可以实现免注册登陆即可获取资源！立志于提供全网最全面的资源整合；网站内容来源于网友投稿，仅只适用于学习和交流测试
+    - title: 鸠摩搜书
+      logo: jiumo.png
+      url: https://link.94c.cn/?link=https://www.jiumodiary.com/
+      description: 鸠摩搜索, 文档, 电子书, 摩鸠, 鸠魔, 鸩摩, 九磨, 官网, 就摸, 鸠, kindle, ebook, jiumosoushu, 找书
+
     - title: 交流社区
       logo: fankui.png
       url: https://link.94c.cn/?link=https://support.qq.com/products/600178
@@ -201,6 +206,38 @@
 - taxonomy: 在线工具
   icon: fas fa-tools fa-lg icon-fw icon-lg mr-2
   list:
+    - term: 云盘资源
+      links:
+        - title: 小纸条
+          logo: xiaozhitiao.png
+          url: https://link.94c.cn/?link=https://ali.gitcafe.ink/
+          description: 小纸条是一个网友资源互助分享网页，可以实现免注册登陆即可获取资源！立志于提供全网最全面的资源整合；网站内容来源于网友投稿，仅只适用于学习和交流测试
+        - title: 小白盘
+          logo: xiaobaipan.png
+          url: https://link.94c.cn/?link=https://www.xiaobaipan.com/
+          description: 小白盘帮收录了大量的网盘资源,页面清新，实时检查失效资源.帮您省心快速找到想要的电影,电视剧,小说,文档,音乐,软件,种子等热门网盘资源
+        - title: 影小喵
+          logo: yingxiaomiao.gif
+          url: https://link.94c.cn/?link=http://yxm01.cn/
+          description: 影小喵 影小喵分享 www.yxm01.cn 影小喵网址是多少 影小喵www.yxm01.cn 影小喵资源分享
+        - title: 熊猫搜盘
+          logo: xiongmaosoupan.ico
+          url: https://link.94c.cn/?link=https://www.sopandas.cn/
+          description: 熊猫搜盘是搜索直达网盘资源的盘搜工具，海量网盘资源免费搜索，帮您快速搜索到小说，影视，游戏，音乐，学习资料等各类稀缺、有用的网盘下载链接。找网盘资源，就上熊猫搜盘。
+        - title: 盘搜索
+          logo:
+          url: https://link.94c.cn/?link=https://pansoso.com/
+          description: 盘搜搜官网支持百度云搜索、115网盘、360云盘、华为网盘、新浪微盘等搜索服务，是您工作、学习、娱乐的网盘搜索神器。
+        - title: 鸠摩搜书
+          logo: jiumo.png
+          url: https://link.94c.cn/?link=https://www.jiumodiary.com/
+          description: 鸠摩搜索, 文档, 电子书, 摩鸠, 鸠魔, 鸩摩, 九磨, 官网, 就摸, 鸠, kindle, ebook, jiumosoushu, 找书
+        - title: libgen
+          logo: llhlf.ico
+          url: https://link.94c.cn/?link=https://llhlf.com/
+          description: The Library Genesis aggregator is a community aiming at collecting and cataloging items descriptions for the most part of scientific,
+
+
     - term: 软件下载
       links:
         - title: 腾讯软件中心
