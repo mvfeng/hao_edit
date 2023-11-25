@@ -54,11 +54,11 @@
       description: GitHub代理加速下载
     - title: mobaxterm激活
       logo: mobaxterm.png
-      url: https://link.94c.cn/?link=http://tool.94c.cn
+      url: https://link.94c.cn/?link=https://tool.94c.cn/mobax
       description: 免费激活mobaxterm
     - title: linux一键脚本大全
       logo: linux.png
-      url: https://link.94c.cn/?link=http://tool.94c.cn
+      url: https://link.94c.cn/?link=https://tool.94c.cn/one
       description: linux一键懒人安装大全(大全更新1%)|1.更新Yum/apt源脚本（CentOS系列和Ubuntu自适配版）
     - title: 腾讯软件中心[大全]
       logo: qqpc.jpg
@@ -74,7 +74,7 @@
       description: 在线AI抠图换背景
     - title: office系列激活
       logo: office.png
-      url: https://link.94c.cn/?link=http://tool.94c.cn
+      url: https://link.94c.cn/?link=https://otp.landian.vip/zh-cn/
       description: 免费激活office全家桶
     - title: 小纸条
       logo: xiaozhitiao.png
@@ -269,11 +269,11 @@
       links:
         - title: mobaxterm激活
           logo: mobaxterm.png
-          url: https://link.94c.cn/?link=http://tool.94c.cn
+          url: https://link.94c.cn/?link=https://tool.94c.cn/mobax
           description: 免费激活mobaxterm
         - title: office系列激活
           logo: office.png
-          url: https://link.94c.cn/?link=http://tool.94c.cn
+          url: https://link.94c.cn/?link=https://otp.landian.vip/zh-cn
           description: 免费激活office全家桶
         - title: 视频去水印[大全]
           logo: eraser.png
