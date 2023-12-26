@@ -7,35 +7,47 @@
       logo: logo.png
       url: https://hao.94c.cn
       qrcode: assets/images/logos/logo.png
-      description: https://hao.94c.cn ai导航领导者
+      description: ai导航领导者-交流社区留言
     - title: chatgpt3.5
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://chat18.aichatos.xyz
-      description: 免费无注册-最好用01。      
+      description: 免费无注册-测试正常2023/12/27
     - title: chatgpt3.5
       logo: chatgpt4.0.png
-      url: https://link.94c.cn/?link=https://c.binjie.fun
-      description: 免费无注册-最好用01。
-    - title: chatgpt3.5
-      logo: chatgpt4.0.png
-      url: https://link.94c.cn/?link=https://www.zxf7460.cn
-      description: 免费无注册-最好用02。
+      url: https://link.94c.cn/?link=https://www.zxf7460.cn/chat
+      description: 免费无注册-测试正常2023/12/27
     - title: chatgpt3.5
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://kqpev.aitianhu.ink
-      description: 免费无注册-最好用03。
-    - title: chatgpt4.0
+      description: 免费无注册-测试正常2023/12/27
+    - title: chatgpt4.0-百晓生
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://www.a0.chat
-      description: 免费无注册-百晓生AI。
-    - title: chatgpt3.5[4.0]
-      logo: chatgpt4.0.png
-      url: https://link.94c.cn/?link=https://botgpt.link
-      description: 密码一个6免费。
-    - title: chatgpt3.5
+      description: 免费无注册-测试正常2023/12/27
+    - title: chatgpt3.5-ailake问答助手
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
-      description: 免费无注册-ailake问答助手。
+      description: 免费无注册-测试正常2023/12/27
+    - title: 文心一言
+      logo: chat-baidu-icon.png
+      url: https://link.94c.cn/?link=https://yiyan.baidu.com
+      description: 百度AI对话-文心一言。
+    - title: 通义千问
+      logo: tongyiqianwen.png
+      url: https://link.94c.cn/?link=https://qianwen.aliyun.com
+      description: 阿里AI对话-通义千问。
+    - title: 讯飞星火
+      logo: chat-baidu-icon.pngx
+      url: https://link.94c.cn/?link=https://xinghuo.xfyun.cn
+      description: 科大讯飞AI对话-讯飞星火。
+    - title: 智谱清言
+      logo: chat-baidu-icon.pngx
+      url: https://link.94c.cn/?link=https://www.chatglm.cn
+      description: 清华大学AI对话-智谱清言。
+    - title: 百川智能
+      logo: chat-baidu-icon.pngx
+      url: https://link.94c.cn/?link=https://www.baichuan-ai.com
+      description: 前搜狗CEO创建AI对话-川智能。
     - title: AILake[ai画图/助手]
       logo: ailake.svg
       url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
@@ -44,13 +56,9 @@
       logo: chatgpt4.0.png
       url: https://link.94c.cn/?link=https://www.knowledgetoproduct.com
       description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
-    - title: 灵感引擎[ai大全]
-      logo: chatgpt4.0.png
-      url: https://link.94c.cn/?link=https://www.aixx.ai
-      description: 免费无注册-灵感引擎[ai大全]
     - title: github加速下载
       logo: github.png
-      url: https://link.94c.cn/?link=https://ghproxy.com
+      url: https://link.94c.cn/?link=https://mirror.ghproxy.com
       description: GitHub代理加速下载
     - title: mobaxterm激活
       logo: mobaxterm.png
@@ -84,7 +92,6 @@
       logo: jiumo.png
       url: https://link.94c.cn/?link=https://www.jiumodiary.com/
       description: 鸠摩搜索, 文档, 电子书, 摩鸠, 鸠魔, 鸩摩, 九磨, 官网, 就摸, 鸠, kindle, ebook, jiumosoushu, 找书
-
     - title: 交流社区
       logo: fankui.png
       url: https://link.94c.cn/?link=https://support.qq.com/products/600178
@@ -97,28 +104,24 @@
       links:
         - title: chatgpt3.5
           logo: chatgpt4.0.png
-          url: https://link.94c.cn/?link=https://chat18.aichatos.xyz/
-          description: 免费无注册-正常
+          url: https://link.94c.cn/?link=https://chat18.aichatos.xyz
+          description: 免费无注册-测试正常2023/12/27
         - title: chatgpt3.5
           logo: chatgpt4.0.png
-          url: https://link.94c.cn/?link=https://www.zxf7460.cn
-          description: 免费无注册-最好用02。
+          url: https://link.94c.cn/?link=https://www.zxf7460.cn/chat
+          description: 免费无注册-测试正常2023/12/27
         - title: chatgpt3.5
           logo: chatgpt4.0.png
           url: https://link.94c.cn/?link=https://kqpev.aitianhu.ink
-          description: 免费无注册-最好用03。
-        - title: chatgpt4.0
+          description: 免费无注册-测试正常2023/12/27
+        - title: chatgpt4.0-百晓生
           logo: chatgpt4.0.png
           url: https://link.94c.cn/?link=https://www.a0.chat
-          description: 免费无注册-百晓生AI。
-        - title: chatgpt3.5[4.0]
-          logo: chatgpt4.0.png
-          url: https://link.94c.cn/?link=https://botgpt.link
-          description: 密码一个6免费。
-        - title: chatgpt3.5
+          description: 免费无注册-测试正常2023/12/27
+        - title: chatgpt3.5-ailake问答助手
           logo: chatgpt4.0.png
           url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
-          description: 免费无注册-ailake问答助手。
+          description: 免费无注册-测试正常2023/12/27
         - title: 文心一言
           logo: chat-baidu-icon.png
           url: https://link.94c.cn/?link=https://yiyan.baidu.com
@@ -135,6 +138,10 @@
           logo: chat-baidu-icon.pngx
           url: https://link.94c.cn/?link=https://www.chatglm.cn
           description: 清华大学AI对话-智谱清言。
+        - title: 百川智能
+          logo: chat-baidu-icon.pngx
+          url: https://link.94c.cn/?link=https://www.baichuan-ai.com
+          description: 前搜狗CEO创建AI对话-川智能。
         - title: 灵感引擎
           logo: chatgpt4.0.png
           url: https://link.94c.cn/?link=https://www.aixx.ai
@@ -150,12 +157,10 @@
           logo: ailake.svg
           url: https://link.94c.cn/?link=https://al.ibooker.org.cn/assist
           description: 白嫖AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
-
         - title: 哩布哩布AI[登录免费]
           logo: liblibai.ico
           url: https://link.94c.cn/?link=https://www.liblibai.com
           description: LiblibAI·哩布哩布AI-中国领先的AI创作平台
-
         - title: 文心一格
           logo: wenxin.png
           url: https://link.94c.cn/?link=https://yige.baidu.com
